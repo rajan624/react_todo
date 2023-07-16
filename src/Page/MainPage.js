@@ -119,7 +119,7 @@ function MainPage() {
             startDecorator={<Add />}
             onClick={() => setOpen(true)}
           >
-            New project
+            New Todo
           </Button>
         </div>
         <table className="rwd-table">
